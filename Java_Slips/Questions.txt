@@ -1,0 +1,6 @@
+Q1) Write a Program to print all Prime numbers in an array of ‘n’ elements. 
+             (use command line  arguments)
+
+Q2) Define an abstract class Staff with protected members id and name. Define a parameterized 
+constructor. Define one subclass OfficeStaff with member department. Create n objects of 
+OfficeStaff and display all details.

@@ -43,6 +43,7 @@ public class PrimeNum {
             if (isPrime(numberArr[i])) {
                 System.out.println(numberArr[i]); // Print the prime number
             }
+
         }
     }
 }
